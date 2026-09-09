@@ -72,3 +72,8 @@ If you're interested in contributing, please read the [contributing docs](CONTRI
 ## License
 
 [MIT](LICENSE.md) License
+
+
+## Parcours francais
+
+Une lecture pedagogique en francais du code source de ce depot est disponible dans [docs/fr](docs/fr/README.md). Elle couvre la presentation, les quatre decorateurs d extension viem, le flux de depot L1 vers L2, le flux de retrait L2 vers L1 en trois etapes, et les adresses de contrats predeployees et deployees.
